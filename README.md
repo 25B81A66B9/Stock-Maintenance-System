@@ -1,2 +1,6 @@
 # Stock-Maintenance-System
-The Stock Maintenance System is designed to manage and maintain inventory records efficiently and accurately. It helps users add,update,delete and view product and stock details in a systematic manner. The system monitors the quality of available products and provides low stocks alerts when the stock reaches a minimum level. 
+This Project is created for academic demonstration purpose only 
+Software Configuration Management using GitHub.
+Student name:P.Srinija
+Roll Number:25B81A66B9
+Class:CSM_B
